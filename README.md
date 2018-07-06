@@ -13,3 +13,6 @@ I'd really like for you to bring a few more people along to join in.
 
 ## Setup & Requirements
 This project requires a computer and internet.
+
+### Code of Conduct
+People may reuse all information in this repo with GPL-2 license
